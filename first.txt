@@ -1,3 +1,11 @@
 Our best thoughts came from others.
 
--Leets and Social AIms.Quotation and Originality. Ralph Waldo Emreson. ca. 1820-1830
+<<<<<<< HEAD
+-Letters and Social AIms.Quotation and Originality. Ralph Waldo Emreson. ca. 1820-1830
+=======
+
+
+It isn't what we say or think that defines us, but what we do.
+
+
+>>>>>>> lincoln
